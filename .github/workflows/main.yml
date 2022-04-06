@@ -4,8 +4,9 @@
 
 ###############################################
 
+
 ---
-name: GitHub's Super Linte
+name: GitHub's Super Linter
 on: push
 
 
