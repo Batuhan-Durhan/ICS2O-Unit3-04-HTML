@@ -11,7 +11,6 @@
 function calculate() {
   // input
   const fahrenheit = parseInt(document.getElementById('fahrenheit-of-temperature').value)
-
   
   // process
   const celsius = (fahrenheit - 32) * (5 / 9)
