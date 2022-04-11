@@ -10,7 +10,7 @@
  */
 function calculate() {
   // input
-  let fahrenheit = parseInt(document.getElementById('fahrenheit-of-temperature').value)
+  const fahrenheit = parseInt(document.getElementById('fahrenheit-of-temperature').value)
 
   
   // process
